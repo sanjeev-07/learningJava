@@ -10,7 +10,8 @@ public class ClassABC {
 		s.publicmethod();
 		s.defaultmethod();
 		s.protectedmethod();
-		s.privatemethod();
+//		s.privatemethod();
 	}
 
 }
+//chnages from SDET
